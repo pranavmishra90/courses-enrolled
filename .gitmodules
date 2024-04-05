@@ -1,4 +1,4 @@
 [submodule "epor-2024"]
 	path = epor-2024
-	url = ./epor-2024
+	url = git@github.com:pranavmishra90/courses-enrolled-epor-2024.git
 	datalad-id = 9b314e37-18d4-47d5-a026-c08441318ad3
