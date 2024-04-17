@@ -2,3 +2,7 @@
 	path = epor-2024
 	url = git@github.com:pranavmishra90/courses-enrolled-epor-2024.git
 	datalad-id = 9b314e37-18d4-47d5-a026-c08441318ad3
+[submodule "app_deep_learning"]
+	path = app_deep_learning
+	url = git@github.com:jeffheaton/app_deep_learning.git
+	datalad-url = git@github.com:jeffheaton/app_deep_learning.git
